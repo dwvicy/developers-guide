@@ -9,7 +9,7 @@ The amount of free resources that we can find today on the internet is often ove
 # Categories
 
 * [Programming and Algorithms](#Programming-and-Algorithms)
-* [Web Development](#Web Development-and-UX/UI)
+* [Web Development](#Web-Development-and-UX/UI)
 * [Machine Leaning]()
 * [Data Science]()
 * [Deep Leanring]()
@@ -54,7 +54,7 @@ The amount of free resources that we can find today on the internet is often ove
 * [Code Forces](https://codeforces.com/)
 
 
-# Web Development-and-UX/UI
+# Web-Development-and-UX/UI
 
 * [MDN Web Docs | Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 * [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
