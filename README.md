@@ -2,11 +2,11 @@
 
 This is the GitHub Repository for Developers' Guide. You can find all the free resources you need to get started with programming or build upon new skills all in one place. The resources are classified categorically. 
 
-# Introduction
+## Introduction
 
 The amount of free resources that we can find today on the internet is often overwhelming to those willing to explore. On the contrary, a lot of people are unware of the existence of most of these resources due to lack of interest in thorough research. Hence, I would be categorically posting new resources everyday (can be a delayed sometimes). This would help you all eliminate the need to repeatedly search for material to study from. 
 
-# Categories
+## Categories
 
 * [Programming and Algorithms](#Programming-and-Algorithms)
 * [Web Development](#Web-Development-and-UX/UI)
@@ -22,7 +22,7 @@ The amount of free resources that we can find today on the internet is often ove
 * [Game Developement]()
 
 
-# Programming-and-Algorithms
+## Programming-and-Algorithms
 
 * [Python Books | Free resources on Python](https://pythonbooks.revolunet.com/)
 * [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
@@ -38,6 +38,9 @@ The amount of free resources that we can find today on the internet is often ove
 * [Asabeneh/30DaysOfJavaScript: 30 days of JavaScript programming challenge is a sep by step guide to learn JavaScript programming language in 30 days](https://github.com/Asabeneh/30DaysOfJavaScript)
 * [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 * [Codelabs - Google](https://codelabs.developers.google.com/)
+
+### Practice Coding 
+
 * [Hackerrank](https://www.hackerrank.com/dashboard)
 * [Code Chef](https://www.codechef.com/)
 * [Top Coder](https://www.topcoder.com/challenges/)
@@ -54,7 +57,7 @@ The amount of free resources that we can find today on the internet is often ove
 * [Code Forces](https://codeforces.com/)
 
 
-# Web-Development-and-UX/UI
+## Web-Development-and-UX/UI
 
 * [MDN Web Docs | Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 * [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
