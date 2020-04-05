@@ -8,8 +8,8 @@ The amount of free resources that we can find today on the internet is often ove
 
 # Categories
 
-* [Programming and Algorithms](#Programming and Algorithms)
-* [Web Development](#Web Development + UX/UI)
+* [Programming and Algorithms](#Programming-and-Algorithms)
+* [Web Development](#Web Development-and-UX/UI)
 * [Machine Leaning]()
 * [Data Science]()
 * [Deep Leanring]()
@@ -22,7 +22,7 @@ The amount of free resources that we can find today on the internet is often ove
 * [Game Developement]()
 
 
-# Programming and Algorithms
+# Programming-and-Algorithms
 
 * [Python Books | Free resources on Python](https://pythonbooks.revolunet.com/)
 * [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
@@ -54,7 +54,7 @@ The amount of free resources that we can find today on the internet is often ove
 * [Code Forces](https://codeforces.com/)
 
 
-# Web Development + UX/UI
+# Web Development-and-UX/UI
 
 * [MDN Web Docs | Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 * [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
