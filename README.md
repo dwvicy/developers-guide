@@ -23,22 +23,24 @@ The amount of free resources that we can find today on the internet is often ove
 
 
 ## Programming-and-Algorithms
+|Title| Link
+|----|-----
+|TheAlgorithms/Python: All Algorithms implemented in Python|https://github.com/TheAlgorithms/Python
+|Introduction to C++, Google Developers|https://developers.google.com/edu/c++
+|seven1m/30-days-of-elixir: A walk through the Elixir language in 30 exercises.|https://github.com/seven1m/30-days-of-elixir
+|Idnan/bash-guide: A guide to learn bash|https://github.com/Idnan/bash-guide
+|coells/100days: 100 days of algorithms|https://github.com/coells/100days
+|caiorss/Functional-Programming: Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python|https://github.com/caiorss/Functional-Programming
+|quii/learn-go-with-tests: Learn Go with test-driven development|https://github.com/quii/learn-go-with-tests
+|bitemyapp/learnhaskell: Learn Haskell|https://github.com/bitemyapp/learnhaskell
+|ziishaned/learn-regex: Learn regex the easy way|https://github.com/ziishaned/learn-regex
+|Asabeneh/30DaysOfJavaScript: 30 days of JavaScript programming challenge is a sep by step guide to learn JavaScript programming language in 30 days|https://github.com/Asabeneh/30DaysOfJavaScript
+|Google Tech Dev Guide|https://techdevguide.withgoogle.com/
+|Codelabs - Google|https://codelabs.developers.google.com/
 
 
-* [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
-* [Introduction  |  C++ Education  |  Google Developers](https://developers.google.com/edu/c++)
-* [seven1m/30-days-of-elixir: A walk through the Elixir language in 30 exercises.](https://github.com/seven1m/30-days-of-elixir)
-* [Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide)
-* [coells/100days: 100 days of algorithms](https://github.com/coells/100days)
-* [caiorss/Functional-Programming: Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python](https://github.com/caiorss/Functional-Programming)
-* [quii/learn-go-with-tests: Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)
-* [bitemyapp/learnhaskell: Learn Haskell](https://github.com/bitemyapp/learnhaskell)
-* [ziishaned/learn-regex: Learn regex the easy way](https://github.com/ziishaned/learn-regex)
-* [Asabeneh/30DaysOfJavaScript: 30 days of JavaScript programming challenge is a sep by step guide to learn JavaScript programming language in 30 days](https://github.com/Asabeneh/30DaysOfJavaScript)
-* [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
-* [Codelabs - Google](https://codelabs.developers.google.com/)
 
-### Practice Coding 
+## Practice Coding 
 | Coding Practice Websites | Description 
 ---------------------------- | ----------------------------------------------------------------------------- 
  [Hackerrank](https://www.hackerrank.com/dashboard)| HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming.
