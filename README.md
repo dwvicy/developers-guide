@@ -60,31 +60,33 @@ The amount of free resources that we can find today on the internet is often ove
 
 ## Web-Development-and-UX/UI
 
-* [MDN Web Docs | Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
-* [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
-* [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
-* [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning)
-* [Medium Articles on JavaScript](https://medium.com/topic/javascript)
-* [Medium Articles on UX](https://medium.com/topic/ux)
-* [JavaScript Course: jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-* [Frontend Web Development Resources: RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
-* [JS Books| Free JavaScript Resources](https://jsbooks.revolunet.com/)
-* [Modern Web Dev Spellbook: dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev#platforms-and-languages)
-* [Web Fundamentals by Google Developers](https://developers.google.com/web)
-* [Web Development Course List: andrews1022/web-development-2020-course-list](https://github.com/andrews1022/web-development-2020-course-list)
-* [fullstackreact/30-days-of-react](https://github.com/fullstackreact/30-days-of-react)
-* [Full Stack Developer Resources: bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-* [Django Hackathon Starter: DrkSephy/django-hackathon-starter: A boilerplate for Django web applications](https://github.com/DrkSephy/django-hackathon-starter)
-* [Mobile Web Development Resources: myshov/awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development)
-* [sahat/hackathon-starter: A boilerplate for Node.js Web Applications](https://github.com/sahat/hackathon-starter)
-
+| Title| Link|
+|---|---
+ |MDN Web Docs Learn Web Development|https://developer.mozilla.org/en-US/docs/Learn
+ |React Tutorial|https://reactjs.org/tutorial/tutorial.html
+ |kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020|https://github.com/kamranahmedse/developer-roadmap
+ |tuvtran/project-based-learning|https://github.com/tuvtran/project-based-learning
+ |Medium Articles on JavaScript|https://medium.com/topic/javascript
+ |Medium Articles on UX|https://medium.com/topic/ux
+ |JavaScript Course: jonasschmedtmann/complete-javascript-course|https://github.com/jonasschmedtmann/complete-javascript-course
+ |Frontend Web Development Resources: RitikPatni/Front-End-Web-Development-Resources|https://github.com/RitikPatni/Front-End-Web-Development-Resources
+ |JS Books, Free JavaScript Resources|https://jsbooks.revolunet.com/
+ |Modern Web Dev Spellbook: dexteryy/spellbook-of-modern-webdev|https://github.com/dexteryy/spellbook-of-modern-webdev#platforms-and-languages
+ |Web Fundamentals by Google Developers|https://developers.google.com/web
+ |Web Development Course List: andrews1022/web-development-2020-course-list|https://github.com/andrews1022/web-development-2020-course-list
+ |fullstackreact/30-days-of-react|https://github.com/fullstackreact/30-days-of-react
+ |Full Stack Developer Resources: bmorelli25/Become-A-Full-Stack-Web-Developer|https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+ |Django Hackathon Starter: DrkSephy/django-hackathon-starter: A boilerplate for Django web applications|https://github.com/DrkSephy/django-hackathon-starter
+ |Mobile Web Development Resources: myshov/awesome-mobile-web-development|https://github.com/myshov/awesome-mobile-web-development
+ |sahat/hackathon-starter: A boilerplate for Node.js Web Applications|https://github.com/sahat/hackathon-starter
 
 ## python/Machine-Learning
 
-| Python Resources | Description 
+| Python Resources | Link
 ---------------------------------------------------| ----------------------------------------------------------------------------- 
-[Python Books | Free resources on Python](https://pythonbooks.revolunet.com/) | Free Python books to read and download
-[codingforentrepreneurs/30-Days-of-Python: For the next 30 days, learn the Python Programming language.](https://github.com/codingforentrepreneurs/30-Days-of-Python) | Learn Python in 30 days
+|Python Books Free resources on Python| https://pythonbooks.revolunet.com/ 
+|codingforentrepreneurs/30-Days-of-Python: For the next 30 days, learn the Python Programming language |https://github.com/codingforentrepreneurs/30-Days-of-Python
+|DataCamp |https://learn.datacamp.com/
 
 
 ## Deep Learning/ Data Science/ Machine Learning
