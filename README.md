@@ -265,7 +265,7 @@ AWS Learning Library| AWS	|https://www.aws.training/LearningLibrary
 |VGG16 – Convolutional Network for Classification and Detection| by Popular networks	|https://neurohive.io/en/popular-networks/vgg16/
 |Lecture 5 | Convolutional Neural Networks| by Stanford University School of Engineering	|https://www.youtube.com/watch?v=bNb2fEVKeEo&feature=youtu.be
 |Mathematics for Data Science Specialization| course on Coursera	|https://www.coursera.org/specializations/mathematics-for-data-science
-|Recurrent Neural Networks | MIT 6.S191| by  Alexander Amini	|https://www.youtube.com/watch?v=SEnXr6v2ifU
+|Recurrent Neural Networks | MIT 6.S191 by  Alexander Amini	|https://www.youtube.com/watch?v=SEnXr6v2ifU
 |Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients| by DENNY BRITZ	| http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/
 |How (not) to use Machine Learning for time series forecasting: Avoiding the pitfalls| by Vegard Flovik	|https://towardsdatascience.com/how-not-to-use-machine-learning-for-time-series-forecasting-avoiding-the-pitfalls-19f9d7adf424
 |Illustrating the Reformer| by Alireza Dirafzoon	|https://towardsdatascience.com/illustrating-the-reformer-393575ac6ba0
