@@ -9,7 +9,8 @@ The amount of free resources that we can find today on the internet is often ove
 ## Categories
 
 * [Programming and Algorithms](#Programming-and-Algorithms)
-* [Web Development](#Web-Development-and-UX/UI)
+* [Web Development](#Web-Development-and-UX-UI)
+* [Python](#python)
 * [Machine Leaning]()
 * [Data Science]()
 * [Deep Leanring]()
@@ -58,7 +59,7 @@ The amount of free resources that we can find today on the internet is often ove
 [Code Forces](https://codeforces.com/) | Codeforces is a competitve programming website. Contests are regularly hosted here. Competitive coding enthusiasts from all over the world participate in these contests.It also contains a rich set of problems from previous contests which are awesome to improve ones algorithm skills.
 
 
-## Web-Development-and-UX/UI
+## Web-Development-and-UX-UI
 
 | Title| Link|
 |---|---
@@ -80,7 +81,7 @@ The amount of free resources that we can find today on the internet is often ove
  |Mobile Web Development Resources: myshov/awesome-mobile-web-development|https://github.com/myshov/awesome-mobile-web-development
  |sahat/hackathon-starter: A boilerplate for Node.js Web Applications|https://github.com/sahat/hackathon-starter
 
-## python/Machine-Learning
+## python
 
 | Python Resources | Link
 ---------------------------------------------------| ----------------------------------------------------------------------------- 
