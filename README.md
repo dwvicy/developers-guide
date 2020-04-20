@@ -23,6 +23,7 @@ The amount of free resources that we can find today on the internet is often ove
 * [Game Developement]()
 
 
+
 ## Programming-and-Algorithms
 |Title| Link
 |----|-----
@@ -91,6 +92,57 @@ The amount of free resources that we can find today on the internet is often ove
 
 
 ## Deep Learning/ Data Science/ Machine Learning
+
+### Youtube Videos and Channels
+
+#### 1.Linear Algebra + Machine Learning Math
+
+- [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&app=desktop)
+- [2019 Mathematics of Machine Learning Summer School - Mathematics of Machine Learning](https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9)
+- [Khan Academy - Gradient](https://www.youtube.com/user/khanacademy/search?query=gradient)
+- [Luis Serrano - Mathematics behind neural networks](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
+
+#### 2. Python Programming
+
+- [Learn to Program in Python! - Keith Galli ](https://www.youtube.com/playlist?list=PLFCB5Dp81iNVoB_eWmDB1nEusSCurrsac)
+- [Python Tutorials for Absolute Beginners by CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
+- [StatQuest with Josh Starmer ](https://www.youtube.com/user/joshstarmer/playlists)
+- [Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+- [Python Tutorials - freecodecamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)
+
+#### 3. Machine Learning + Deep Learning
+
+- [Machine Learning - Mathematical Monk  (160 Videos)](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+- [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [Foundations of Machine Learning - Inside Bloomberg](https://www.youtube.com/playlist?list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI)
+- [Machine Learning by freecodecamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s)
+- [Victor Lavrenko - ML Theory + Math](https://www.youtube.com/user/victorlavrenko/playlists)
+- [Machine Learning Recipes with Josh Gordon - Google Developers](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+- [CS230: Deep Learning | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+- [Deep Learning (with PyTorch) - Alfredo Canziani](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+- [MIT Deep Learning 6.S191 - MIT, Alexander Amini](http://introtodeeplearning.com)
+- [Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+- [Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
+- [CS224N: Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+- [11-785 Introduction to Deep Learning | Carnegie Mellon University | Spring 2020](https://www.youtube.com/playlist?list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe)
+- [sentdex - sentdex’s youtube channel (almost everything at once, hands on)](https://www.youtube.com/user/sentdex/playlists)
+- [Applied Deep Learning with PyTorch - Full Course  - freecodecamp](https://www.youtube.com/watch?v=CNuI8OWsppg&amp=&t=1475s)
+- [CS234: Reinforcement Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+- [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+- [AA289 - Robotics and Autonomous Systems Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rMeercb-kvGLUrOq4HR6BZD)
+- [OpenCV Python Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K)
+- [Deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw/playlists?view=50&sort=dd&shelf_id=6)
+- [Brandon Rohrer - Explanation of neural networks, machine learning](https://www.youtube.com/channel/UCsBKTrp45lTfHa_p49I2AEQ)
+
+
+#### 4. Data Science + Misc
+- [Kaggle - Kaggle’s Youtube Page](https://www.youtube.com/user/kaggledotcom)
+- [Data Science - Keith Galli](https://www.youtube.com/playlist?list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp)
+- [Data Science - freecodecamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
+- [Missing Semester IAP 2020 - MIT](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+
+
+
 
 |Title| Creator/Author| Link
 |------------------------|---------------------|-------------------------------
