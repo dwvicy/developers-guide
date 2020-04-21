@@ -21,18 +21,20 @@ The amount of free resources that we can find today on the internet is often ove
 
 ## Programming-and-Algorithms
 
-- Algorithms in Python: [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
-- Google Developers' Intro to C++ : [Introduction to C++, Google Developers]( https://developers.google.com/edu/c++)
-- Learn Elixir: [seven1m/30-days-of-elixir: A walk through the Elixir language in 30 exercises.](https://github.com/seven1m/30-days-of-elixir)
-- Learn bash [Idnan/bash-guide: A guide to learn bash ](https://github.com/Idnan/bash-guide)
-- Learn Algorithms [coells/100days: 100 days of algorithms]( https://github.com/coells/100days)
-- Learn Functional Programming in Haskell, Ocaml and Python: [caiorss/Functional-Programming: Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python ](https://github.com/caiorss/Functional-Programming)
-- Learn Go: [quii/learn-go-with-tests: Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)
-- Learn Haskell [bitemyapp/learnhaskell: Learn Haskell](https://github.com/bitemyapp/learnhaskell)
-- Learn Regex: [ziishaned/learn-regex: Learn regex the easy way](https://github.com/ziishaned/learn-regex)
-- Tech Dev Guide by Google has a ton of useful resources and exercises: [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
-- Codelabs by Google:[Codelabs - Google](https://codelabs.developers.google.com/)
+**GitHub Repositories**
+- *Algorithms in Python:* [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+- *Learn Elixir:*  [seven1m/30-days-of-elixir: A walk through the Elixir language in 30 exercises.](https://github.com/seven1m/30-days-of-elixir)
+- *Learn bash:* [Idnan/bash-guide: A guide to learn bash ](https://github.com/Idnan/bash-guide)
+- *Learn Algorithms:* [coells/100days: 100 days of algorithms]( https://github.com/coells/100days)
+- *Learn Functional Programming in Haskell, Ocaml and Python:* [caiorss/Functional-Programming: Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python ](https://github.com/caiorss/Functional-Programming)
+- *Learn Go:* [quii/learn-go-with-tests: Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)
+- *Learn Haskell:* [bitemyapp/learnhaskell: Learn Haskell](https://github.com/bitemyapp/learnhaskell)
+- *Learn Regex:* [ziishaned/learn-regex: Learn regex the easy way](https://github.com/ziishaned/learn-regex)
 
+**Guides**
+- *Tech Dev Guide by Google has a ton of useful resources and exercises:* [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
+- *Codelabs by Google:* [Codelabs - Google](https://codelabs.developers.google.com/)
+- *Google Developers' Intro to C++:* [Introduction to C++, Google Developers]( https://developers.google.com/edu/c++)
 
 
 
@@ -59,26 +61,26 @@ The amount of free resources that we can find today on the internet is often ove
 
 #### Documentation, Books and Articles
 
-- Learn HTML, CSS, and JavaScript from the official documentation: [MDN Web Docs Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
-- Learn the fundamentals of Web Development: [Web Fundamentals by Google Developers](https://developers.google.com/web)
-- [JS Books, Free JavaScript Resources](https://jsbooks.revolunet.com/)
-- [React Tutorial]( https://reactjs.org/tutorial/tutorial.html)
-- [Medium Articles on JavaScript](https://medium.com/topic/javascript)
-- [Medium Articles on UX](https://medium.com/topic/ux)
+- *Learn HTML, CSS, and JavaScript from the official documentation*: [MDN Web Docs Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
+- *Learn the fundamentals of Web Development*: [Web Fundamentals by Google Developers](https://developers.google.com/web)
+- *Free Books on JavaScript:* [JS Books, Free JavaScript Resources](https://jsbooks.revolunet.com/)
+- *Official React Tutorial:* [React Tutorial]( https://reactjs.org/tutorial/tutorial.html)
+- *A Collection of medium articles on JavaScript:* [Medium Articles on JavaScript](https://medium.com/topic/javascript)
+- *A collection of Medium Articles on UI/UX:* [Medium Articles on UX](https://medium.com/topic/ux)
 
 #### Popular GitHub Repositories
 
-- [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
-- Learn JavaScript: [Asabeneh/30DaysOfJavaScript: 30 days of JavaScript programming challenge is a sep by step guide to learn JavaScript programming language in 30 days](https://github.com/Asabeneh/30DaysOfJavaScript)
-- [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning)
-- Learn Frontend Web devlopement through a ton of resources provided on this repository: [Frontend Web Development Resources: RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
-- Repo for JavaScript Course on Udemy: [JavaScript Course: jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
-- [Modern Web Dev Spellbook: dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev#platforms-and-languages)
-- [Web Development Course List: andrews1022/web-development-2020-course-list]( https://github.com/andrews1022/web-development-2020-course-list)
-- [fullstackreact/30-days-of-react](https://github.com/fullstackreact/30-days-of-react)
-- [Full Stack Developer Resources: bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [sahat/hackathon-starter: A boilerplate for Node.js Web Applications]( https://github.com/sahat/hackathon-starter)
-- [Django Hackathon Starter: DrkSephy/django-hackathon-starter: A boilerplate for Django web applications](https://github.com/DrkSephy/django-hackathon-starter)
+- *Roadmap to becoming a web developer:* [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
+- *Repository to learn JavaScript:* [Asabeneh/30DaysOfJavaScript: 30 days of JavaScript programming challenge is a sep by step guide to learn JavaScript programming language in 30 days](https://github.com/Asabeneh/30DaysOfJavaScript)
+- *Repository on project based learning:* [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning)
+- *Learn Frontend Web devlopement through a ton of resources provided on this repository:* [Frontend Web Development Resources: RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
+- *Repository for JavaScript Course on Udemy:* [JavaScript Course: jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)
+- *Repository complied with a ton of Web Dev Resources:* [Modern Web Dev Spellbook: dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev#platforms-and-languages)
+- *Repository complied with a ton of Web Dev courses:* [Web Development Course List: andrews1022/web-development-2020-course-list]( https://github.com/andrews1022/web-development-2020-course-list)
+- *Repository to learn React:* [fullstackreact/30-days-of-react](https://github.com/fullstackreact/30-days-of-react)
+- *Repository complied with a ton of Full Stack Web Dev Resources:* [Full Stack Developer Resources: bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+- *Repository for everything you require to make a node.js web application during a hackathon* [sahat/hackathon-starter: A boilerplate for Node.js Web Applications]( https://github.com/sahat/hackathon-starter)
+- *Repository for everything you require to make a django web application during a hackathon* [Django Hackathon Starter: DrkSephy/django-hackathon-starter: A boilerplate for Django web applications](https://github.com/DrkSephy/django-hackathon-starter)
 
 
 
@@ -86,7 +88,7 @@ The amount of free resources that we can find today on the internet is often ove
 
 #### 1.Linear Algebra + Machine Learning Math
 
-   ##### - Youtube Videos, Playlists and Channels
+   **Youtube Videos, Playlists and Channels**
 - For a better mathematical understanding: [3 Blue One Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - Necessary brush up on Linear Algebra: [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&app=desktop)
 - Mathematics of Machine Learning: [2019 Mathematics of Machine Learning Summer School](https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9)
@@ -95,28 +97,24 @@ The amount of free resources that we can find today on the internet is often ove
 
 #### 2. Python Programming
 
-  ##### - Youtube Videos, Playlists and Channels
-  
+  **Youtube Videos, Playlists and Channels**
 - Keith Galli's playlist on python: [Learn to Program in Python! - Keith Galli ](https://www.youtube.com/playlist?list=PLFCB5Dp81iNVoB_eWmDB1nEusSCurrsac)
 - Keith Galli's playlist on python: [Python Tutorials for Absolute Beginners by CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
 - OOP Playlist on python: [Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 - freecodecamp's playlist on python: [Python Tutorials - freecodecamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)
 
-##### - Books and Courses
-
+**Books and Courses**
 - [Python Books Free resources on Python](https://pythonbooks.revolunet.com/ )
 - [DataCamp](https://learn.datacamp.com/)
 
-##### - GitHub Repositories
-
+**GitHub Repositories**
 - [codingforentrepreneurs/30-Days-of-Python: For the next 30 days, learn the Python Programming language](https://github.com/codingforentrepreneurs/30-Days-of-Python)
 
 
 
 #### 3. Machine Learning + Deep Learning
 
-  ##### - Youtube Videos, Playlists and Channels
-
+**Youtube Videos, Playlists and Channels**
 - Mathematical Monk's Machine Learning playlists[Machine Learning - Mathematical Monk  (160 Videos)](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 - Video Lectures by Stanford: [Stanford CS229: Machine Learning, Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - Video Lectures by Bloomberg: [Foundations of Machine Learning - Inside Bloomberg](https://www.youtube.com/playlist?list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI)
@@ -142,8 +140,7 @@ The amount of free resources that we can find today on the internet is often ove
 
 #### 4. Data Science + Misc
 
-  ##### - Youtube Videos, Playlists and Channels
-  
+**Youtube Videos, Playlists and Channels**  
 - Kaggle’s Youtube Page: [Kaggle](https://www.youtube.com/user/kaggledotcom)
 - Keith Galli's Data Science playlist: [Data Science - Keith Galli](https://www.youtube.com/playlist?list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp)
 - Youtube channel in Data Science and Statistics fundamentals : [StatQuest with Josh Starmer ](https://www.youtube.com/user/joshstarmer/playlists)
