@@ -19,7 +19,6 @@ The amount of free resources that we can find today on the internet is often ove
 * [Cloud Computing]()
 * [Security]()
 * [Blockchain]()
-* [Big Data]()
 * [Game Developement]()
 
 
