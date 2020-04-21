@@ -25,7 +25,7 @@ The amount of free resources that we can find today on the internet is often ove
 
 ## Programming-and-Algorithms
 |Title| Link
-|----|-----
+|---|---
 |TheAlgorithms/Python: All Algorithms implemented in Python|https://github.com/TheAlgorithms/Python
 |Introduction to C++, Google Developers|https://developers.google.com/edu/c++
 |seven1m/30-days-of-elixir: A walk through the Elixir language in 30 exercises.|https://github.com/seven1m/30-days-of-elixir
@@ -86,8 +86,8 @@ The amount of free resources that we can find today on the internet is often ove
 | Python Resources | Link
 ---------------------------------------------------| ----------------------------------------------------------------------------- 
 |Python Books Free resources on Python| https://pythonbooks.revolunet.com/ 
-|codingforentrepreneurs/30-Days-of-Python: For the next 30 days, learn the Python Programming language |https://github.com/codingforentrepreneurs/30-Days-of-Python
-|DataCamp |https://learn.datacamp.com/
+|codingforentrepreneurs/30-Days-of-Python: For the next 30 days, learn the Python Programming language | https://github.com/codingforentrepreneurs/30-Days-of-Python
+|DataCamp | https://learn.datacamp.com/
 
 
 ## Deep Learning/ Data Science/ Machine Learning
@@ -96,8 +96,8 @@ The amount of free resources that we can find today on the internet is often ove
 
 #### 1.Linear Algebra + Machine Learning Math
 
--  For a better mathematical understanding: [3 Blue One Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
--  Necessary brush up on Linear Algebra: [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&app=desktop)
+- For a better mathematical understanding: [3 Blue One Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- Necessary brush up on Linear Algebra: [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&app=desktop)
 - Mathematics of Machine Learning: [2019 Mathematics of Machine Learning Summer School](https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9)
 - What is Gradient?: [Khan Academy - Gradient](https://www.youtube.com/user/khanacademy/search?query=gradient)
 - Mathematics behind neural networks: [Luis Serrano](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
@@ -145,7 +145,7 @@ The amount of free resources that we can find today on the internet is often ove
 
 
 |Title| Creator/Author| Link
-|------------------------|---------------------|-------------------------------
+|---|---|---
 |Understanding Dropout with the Simplified Math behind it| by Chitta Ranjan	|https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275
 |Vehicle Detection using Support Vector Machine(SVM)| by Avinash Singh	|https://towardsdatascience.com/vehicle-detection-using-support-vector-machine-svm-19e073b61d16
 |How to Train an Image Classifier in PyTorch and use it to Perform Basic Inference on Single Images| by Chris Fotache	|https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5
