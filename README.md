@@ -8,9 +8,9 @@ The amount of free resources that we can find today on the internet is often ove
 
 ## Categories
 
-* [Programming and Algorithms](#Programming-and-Algorithms)
-* [Web Development](#Web-Development-and-UX-UI)
-* [Python](#python)
+* [Programming and Algorithms]()
+* [Web Development]()
+* [Python]()
 * [Machine Leaning]()
 * [Data Science]()
 * [Deep Leanring]()
