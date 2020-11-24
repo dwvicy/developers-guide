@@ -15,7 +15,7 @@ The amount of free resources that we can find today on the internet is often ove
 * Data Science
 * Deep Leanring
 * Artificial Intelligence
-* Mobile App Development
+
 
 
 
