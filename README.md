@@ -138,6 +138,7 @@ The amount of free resources that we can find today on the internet is often ove
 - Explanation of neural networks, machine learning: [Brandon Rohrer](https://www.youtube.com/channel/UCsBKTrp45lTfHa_p49I2AEQ)
 - Deep Learning with PyTorch: [Yann LeCun Deep Learning Course](https://atcold.github.io/pytorch-Deep-Learning/)
 - Kaggle Microcourses: [Kaggle Courses](https://www.kaggle.com/learn/overview)
+- Full Stack Deep Learning: [MIT Course](https://fullstackdeeplearning.com/)
 
 #### 4. Data Science + Misc
 
