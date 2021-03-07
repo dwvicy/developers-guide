@@ -1,6 +1,6 @@
 # Developers' Guide
 
-This is the GitHub Repository for Developers' Guide. You can find all the free resources you need to get started with programming or build upon new skills all in one place. The resources are classified categorically. 
+This is the GitHub Repository for Developers' Guide. You can find all the free resources you need to get started with programming or build upon new skills all in one place. The resources are classified categorically. buzzinga
 
 ## Introduction
 
