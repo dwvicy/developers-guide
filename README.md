@@ -160,13 +160,13 @@ The amount of free resources that we can find today on the internet is often ove
 
 ## Android Development
 
-In short, To learn Android Development, the top and best resource is **UDACITY** Courses !!
-Why ? Well they are developed by Google themselves and taught by Google's industry experts, following best and recommended practises !!
+In short, to learn Android Development, the top and best resource is **UDACITY** Courses !!
+Why ? Well they are developed in collaboration with Google and taught by Google's industry experts, following best and recommended practises !!
 So if you want to start learning Android Development, just pick a language and start learning from very basic from Udacity's Courses
 
-In Native Android Development you have two languages choices :-
-1. *Java* 
-2. Kotlin* (Kotlin was announced as an official Android development language at Google I/O in May 2017 and now used by most of the top apps in PlayStore)
+In Native Android Development we have two languages choices :-
+1. *Java* (Ex-Official Android Development Language)
+2. *Kotlin* (Kotlin was announced as an Official Android Development Language at **Google I/O May 2017** and now used by most of the top apps in PlayStore)
    
 ### Java
 - [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
