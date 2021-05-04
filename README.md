@@ -8,15 +8,23 @@ The amount of free resources that we can find today on the internet is often ove
 
 ## Categories
 
-* Programming and Algorithms
-* Web Development
-* Python
-* Machine Leaning
-* Data Science
-* Deep Leanring
-* Artificial Intelligence
-
-
+- [Developers' Guide](#developers-guide)
+  - [Introduction](#introduction)
+  - [Categories](#categories)
+  - [Programming-and-Algorithms](#programming-and-algorithms)
+  - [Practice Coding](#practice-coding)
+  - [Web-Development-and-UX-UI](#web-development-and-ux-ui)
+      - [Documentation, Books and Articles](#documentation-books-and-articles)
+      - [Popular GitHub Repositories](#popular-github-repositories)
+  - [Deep Learning/ Data Science/ Machine Learning](#deep-learning-data-science-machine-learning)
+      - [1.Linear Algebra + Machine Learning Math](#1linear-algebra--machine-learning-math)
+      - [2. Python Programming](#2-python-programming)
+      - [3. Machine Learning + Deep Learning](#3-machine-learning--deep-learning)
+      - [4. Data Science + Misc](#4-data-science--misc)
+  - [Android Development](#android-development)
+    - [Java](#java)
+    - [Kotlin](#kotlin)
+    - [Youtube Channels](#youtube-channels)
 
 
 ## Programming-and-Algorithms
@@ -150,6 +158,38 @@ The amount of free resources that we can find today on the internet is often ove
 - Essentials for Computer Science by MIT: [Missing Semester IAP 2020 - MIT](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 
 
+## Android Development
+
+In short, to learn Android Development, the top and best resource is **UDACITY** Courses !!
+Why ? Well they are developed in collaboration with Google and taught by Google's industry experts, following best and recommended practises !!
+So if you want to start learning Android Development, just pick a language and start learning from very basic from Udacity's Courses
+
+In Native Android Development we have two languages choices :-
+1. *Java* (Ex-Official Android Development Language)
+2. *Kotlin* (Kotlin was announced as an Official Android Development Language at **Google I/O May 2017** and now used by most of the top apps in PlayStore)
+   
+### Java
+- [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
+- [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+- [Android Basics: Multi-screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)
+- [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+- [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+- [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
+
+### Kotlin
+- *'Single Source of Truth: '* [Android's Kotlin Resource Page](https://developer.android.com/kotlin)
+- Udacity's Course for : [Kotlin Bootcamp for Programmers](https://classroom.udacity.com/courses/ud9011)
+- Udacity's Course for : [Developing Android App with Kotlin](https://classroom.udacity.com/courses/ud9012)
+- Udacity's Course for : [Advanced Android App Development](https://classroom.udacity.com/courses/ud855)
+- [Mini Courses on Google Codelab : ](https://codelabs.developers.google.com) Learn Anything related to Google's Technologies here including Android, Firebase, Tensor Flow, Flutter, Google Cloud etc etc etc.
+
+### Youtube Channels
+- Android's Official Youtube Channel : [Android Developers](https://www.youtube.com/c/AndroidDevelopers/videos)
+- Video Lectures by : [Philipp Lackner](https://www.youtube.com/channel/UCKNTZMRHPLXfqlbdOI7mCkg)
+- Video Lectures by : [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw)
+- Video Lectures by : [Coding in Flow](https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcA)
+- Video Lectures by : [Simplified Coding](https://www.youtube.com/c/SimplifiedcodingNetOfficial/videos)
 
 
 
