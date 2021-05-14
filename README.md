@@ -102,7 +102,7 @@ The amount of free resources that we can find today on the internet is often ove
 - Mathematics of Machine Learning: [2019 Mathematics of Machine Learning Summer School](https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9)
 - What is Gradient?: [Khan Academy - Gradient](https://www.youtube.com/user/khanacademy/search?query=gradient)
 - Mathematics behind neural networks: [Luis Serrano](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
-
+- Code With Harry ML :[Code with Harry] (https://codewithharry.com/videos/ml-tutorials-in-hindi-20)
 #### 2. Python Programming
 
   **Youtube Videos, Playlists and Channels**
