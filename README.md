@@ -89,7 +89,7 @@ The amount of free resources that we can find today on the internet is often ove
 - *Repository complied with a ton of Full Stack Web Dev Resources:* [Full Stack Developer Resources: bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - *Repository for everything you require to make a node.js web application during a hackathon* [sahat/hackathon-starter: A boilerplate for Node.js Web Applications]( https://github.com/sahat/hackathon-starter)
 - *Repository for everything you require to make a django web application during a hackathon* [Django Hackathon Starter: DrkSephy/django-hackathon-starter: A boilerplate for Django web applications](https://github.com/DrkSephy/django-hackathon-starter)
-
+- *Repository for full stack web developement: https://www.theodinproject.com/home
 
 
 ## Deep Learning/ Data Science/ Machine Learning
