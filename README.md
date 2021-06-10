@@ -183,6 +183,7 @@ In Native Android Development we have two languages choices :-
 - Udacity's Course for : [Developing Android App with Kotlin](https://classroom.udacity.com/courses/ud9012)
 - Udacity's Course for : [Advanced Android App Development](https://classroom.udacity.com/courses/ud855)
 - [Mini Courses on Google Codelab : ](https://codelabs.developers.google.com) Learn Anything related to Google's Technologies here including Android, Firebase, Tensor Flow, Flutter, Google Cloud etc etc etc.
+- Udemy's Course for : [Android and Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/)
 
 ### Youtube Channels
 - Android's Official Youtube Channel : [Android Developers](https://www.youtube.com/c/AndroidDevelopers/videos)
