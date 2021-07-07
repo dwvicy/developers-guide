@@ -94,7 +94,7 @@ The amount of free resources that we can find today on the internet is often ove
 
 ## Deep Learning/ Data Science/ Machine Learning
 
-#### 1.Linear Algebra + Machine Learning Math
+#### 1. Linear Algebra + Machine Learning Math
 
    **Youtube Videos, Playlists and Channels**
 - For a better mathematical understanding: [3 Blue One Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
@@ -148,6 +148,12 @@ The amount of free resources that we can find today on the internet is often ove
 - Kaggle Microcourses: [Kaggle Courses](https://www.kaggle.com/learn/overview)
 - Full Stack Deep Learning: [MIT Course](https://fullstackdeeplearning.com/)
 
+**GitHub Repositories**
+- [Machine-Learning-Tuitorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+
+**Practice**
+- [Machine-Learning-Hackathons](https://machinehack.com/)
+
 #### 4. Data Science + Misc
 
 **Youtube Videos, Playlists and Channels**  
@@ -156,6 +162,9 @@ The amount of free resources that we can find today on the internet is often ove
 - Youtube channel in Data Science and Statistics fundamentals : [StatQuest with Josh Starmer ](https://www.youtube.com/user/joshstarmer/playlists)
 - Video Lectures by freecodecamp: [Data Science - freecodecamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
 - Essentials for Computer Science by MIT: [Missing Semester IAP 2020 - MIT](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+
+**Practice**
+- [Kaggle Competitions](https://www.kaggle.com/competitions)
 
 
 ## Android Development
