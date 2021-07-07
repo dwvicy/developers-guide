@@ -107,7 +107,7 @@ The amount of free resources that we can find today on the internet is often ove
 
   **Youtube Videos, Playlists and Channels**
 - Keith Galli's playlist on python: [Learn to Program in Python! - Keith Galli ](https://www.youtube.com/playlist?list=PLFCB5Dp81iNVoB_eWmDB1nEusSCurrsac)
-- Keith Galli's playlist on python: [Python Tutorials for Absolute Beginners by CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
+- CS Dojo's playlist on python: [Python Tutorials for Absolute Beginners by CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
 - OOP Playlist on python: [Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 - freecodecamp's playlist on python: [Python Tutorials - freecodecamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)
 
